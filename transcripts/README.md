@@ -1,12 +1,13 @@
 # AI Transcripts
 
-This folder contains the AI-use record for this take-home.
+This folder contains the AI-use record for this take-home. I used AI as a research and coding
+assistant: to understand the assignment, inspect references, plan the method, implement the
+reproducible solver, debug environment issues, and prepare the submission materials.
 
 ## Included
 
-- `codex-development-log.md` - readable prompt/response development log for the Codex session used
-  to understand the assignment, inspect the starter kit, design the method, implement `solve.py`,
-  test the output, and publish the repo.
+- `codex-development-log.md` - readable collaboration log showing my prompts, decisions, the AI
+  assistance I used, implementation/testing notes, and final validation outputs.
 
 ## Raw Session Reference
 
